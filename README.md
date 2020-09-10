@@ -1,5 +1,3 @@
-# awesome-ninja
-
 awesome-ninja
 ===============
 
